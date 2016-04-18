@@ -13,3 +13,4 @@ if(aa.data.version  == undefined){
 	aa.data.show_usage = 0
 	aa.flush()
 }
+trace("update_data_finished");
