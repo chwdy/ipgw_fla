@@ -44,7 +44,7 @@
         <manifestAdditions><![CDATA[<manifest><uses-permission android:name="android.permission.INTERNET"/><uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/><uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/><uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/></manifest>]]></manifestAdditions>
     </android>
     <supportedLanguages>en zh</supportedLanguages>
-    <versionLabel>201609152</versionLabel>
+    <versionLabel>201609171</versionLabel>
     <iPhone>
         <requestedDisplayResolution>standard</requestedDisplayResolution>
         <InfoAdditions><![CDATA[
