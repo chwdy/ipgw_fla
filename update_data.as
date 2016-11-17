@@ -34,3 +34,7 @@ if(aa.data.version  < 201610111){
   aa.data.version = 201610111
   aa.flush() 
 }
+if(aa.data.version  < 201611171){ 
+  aa.data.version = 201611171
+  aa.flush() 
+}
